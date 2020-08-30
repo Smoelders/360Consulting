@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\360C\360C\obj\Debug\360C.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\360C\360C\obj\Debug\360C.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\360C\360C\bin\Debug\360C.exe.config
+C:\Users\Administrator\Source\Repos\360C\360C\bin\Debug\360C.exe
+C:\Users\Administrator\Source\Repos\360C\360C\bin\Debug\360C.pdb
+C:\Users\Administrator\Source\Repos\360C\360C\obj\Debug\360C.exe
+C:\Users\Administrator\Source\Repos\360C\360C\obj\Debug\360C.pdb
+C:\Users\molde\Downloads\360C123\360C\360C\bin\Debug\360C.exe.config
+C:\Users\molde\Downloads\360C123\360C\360C\bin\Debug\360C.exe
+C:\Users\molde\Downloads\360C123\360C\360C\bin\Debug\360C.pdb
+C:\Users\molde\Downloads\360C123\360C\360C\obj\Debug\360C.csprojAssemblyReference.cache
+C:\Users\molde\Downloads\360C123\360C\360C\obj\Debug\360C.csproj.CoreCompileInputs.cache
+C:\Users\molde\Downloads\360C123\360C\360C\obj\Debug\360C.exe
+C:\Users\molde\Downloads\360C123\360C\360C\obj\Debug\360C.pdb
